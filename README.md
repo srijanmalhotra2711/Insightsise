@@ -1,2 +1,1 @@
-# Insightsise
-Job Market Analysis System
+# Insightsise: Job Market Analysis System
