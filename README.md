@@ -5,7 +5,8 @@ Problem Statement
 We aim to solve the problem of job market analysis by developing a system that will leverage real-time data from multiple sources for streaming, modeling, and visualization that will be used by candidates to make decisions on the job application or switch.
 
 
-Market Analysis - Big Data Problem!
+
+#Market Analysis - Big Data Problem!
 Any company’s performance over recent years can be assessed to gauge decisions regarding future investments one could make in a company and the company’s employee retention and attrition rates.
 We have large-scale data available for the companies:
 Financial Data: By analyzing large volumes of financial data, such as stock price, revenue, expenses, and profits, organizations can get a sense of how well a company is performing financially. This can be used to identify trends and patterns in financial performance and to inform business decisions.
